@@ -1,0 +1,1 @@
+producer-->exchange(mail_exchange)-->routing_key(send_mail)-->queue(mail_queue)-->consumer
